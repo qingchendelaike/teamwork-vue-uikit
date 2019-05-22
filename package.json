@@ -1,0 +1,22 @@
+{
+  "name": "teamwork-vue-uikit",
+  "version": "1.0.0",
+  "description": "teamwork-vue-uikit",
+  "main": "main.js",
+  "scripts": {
+    "serve": "vue-cli-service serve"
+  },
+  "keywords": [
+    "teamwork-vue-uikit"
+  ],
+  "author": "tfcaijing Tech Center",
+  "license": "ISC",
+  "dependencies": {
+    "@vue/cli-service": "^3.7.0",
+    "@vuikit/icons": "^0.8.1",
+    "@vuikit/theme": "^0.8.1",
+    "vue": "^2.6.10",
+    "vue-template-compiler": "^2.6.10",
+    "vuikit": "^0.8.10"
+  }
+}
